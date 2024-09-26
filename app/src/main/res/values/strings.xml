@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">O\'zbek-Inglizcha lug\'at</string>
+    <string name="content_data"></string>
+    <string name="no_internet_connection">Internet bilan aloqa yo\'q</string>
+    <string name="retry">Retry</string>
+    <string name="knowledge">Knowledge</string>
+    <string name="about_app">Dastur haqida</string>
+    <string name="rate">Baholash</string>
+    <string name="other_apps">Boshqa ilovalar</string>
+    <string name="share">Ulashish</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="privacy_police">Maxfiylik siyosati</string>
+    <string name="bookmark">Saqlanganlar</string>
+    <string name="menu">Menyu</string>
+    <string name="home">Uy</string>
+    <string name="search">Izlash</string>
+    <string name="try_again">Qaytadan urining</string>
+    <string name="about_us">Biz haqimizda</string>
+    <string name="version">Versiya: </string>
+    <string name="company">Kompaniya: Programm Soft MCHJ</string>
+    <string name="mail">Mail: programmsoftuz@gmail.com</string>
+    <string name="category">Bo‘lim</string>
+    <string name="google_play">https://play.google.com/store/apps/dev?id=5705777915421890833</string>
+    <string name="copied">Nusxalandi</string>
+    <string name="notification">Bildirishnoma</string>
+</resources>

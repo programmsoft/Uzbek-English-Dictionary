@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_one">#FFF2F2</color>
+    <color name="color_two">#E5E0FF</color>
+    <color name="color_three">#8EA7E9</color>
+    <color name="color_four">#7286D3</color>
+    <color name="text">@color/white</color>
+    <color name="red">#F05454</color>
+    <color name="stroke">#80F9F7F7</color>
+    <color name="icon">@color/white</color>
+    <color name="nav_icon">#B3F9F7F7</color>
+    <color name="nav_icon_active">#FFFFFF</color>
+    <color name="ripple">#80F9F7F7</color>
+    <color name="item_background">@color/color_four</color>
+    <color name="bottom_nav">@color/color_four</color>
+    <color name="background">@color/color_three</color>
+    <color name="splash_background">@color/color_three</color>
+    <color name="status_bar">@color/background</color>
+    <color name="navigation_bar">@color/bottom_nav</color>
+    <color name="color_50">#FFF2F2</color>
+    <!--    color_50 is equal to 50% color_one-->
+</resources>
